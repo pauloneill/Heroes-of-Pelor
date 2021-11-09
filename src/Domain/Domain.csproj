@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Heroes_of_Pelor.Domain</RootNamespace>
+    <AssemblyName>Heroes_of_Pelor.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
